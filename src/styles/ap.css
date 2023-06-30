@@ -1,0 +1,16 @@
+@media (max-width: 768px) {
+    html{
+        padding-top: 250px;
+    }
+    .align{
+        align-items: center;
+    }
+    .container{
+        align-items: center;
+        text-align: center;
+    }
+    h1 {
+      font-size: 2rem;
+    }
+  }
+  
